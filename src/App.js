@@ -10,6 +10,8 @@ function App() {
           Welcome To React
         </p>
         <p>suraj</p>
+        <p>suraj2</p>
+        <p>suraj3</p>
         <a
           className="App-link"
           href="https://reactjs.org"
